@@ -11,7 +11,7 @@
 - Понял, что в каждом наборе данных скрыты ответы на вопросы, которые мы еще не задали 
 - Продолжаю изучать востребованные инструменты и работать над проектами. Готов к сотрудничеству и предложениям
 
-### На данный момент использую в своей работе
+### Использую в своей работе
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,4 +29,6 @@
 | Решение тестового задания [(репозиторий)](https://github.com/cybermarcus/three_tasks_for_analysis) | Интерпретация результатов АБ-теста, составление SQL-запросов и написание функций на Python | Python, pandas, matplotlib, seaborn, scipy, pandahouse, SQL, Clickhouse |
 | Анализ работы Интернет-магазина [(репозиторий)](https://github.com/cybermarcus/e-commerce_analysis) | Реализованы когортный анализ и RFM-сегментация пользователей. Проведен ad hoc анализ.| Python, pandas, matplotlib, seaborn|
 ### Контакты
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<a href="https://t.me/marcus_vinicius_0">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
